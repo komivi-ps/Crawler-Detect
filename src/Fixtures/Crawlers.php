@@ -642,6 +642,7 @@ class Crawlers extends AbstractProvider
         'Super Monitoring',
         'Surphace Scout',
         'SwiteScraper',
+        'Swiftbot',
         'Symfony2 BrowserKit',
         'SynHttpClient-Built',
         'Sysomos',
